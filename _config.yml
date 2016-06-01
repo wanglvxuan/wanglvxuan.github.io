@@ -1,0 +1,9 @@
+
+# Site settings
+title: 璇的博客
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://xuan.wanglvxuan.com" # the base hostname & protocol for your site
+github_username:  wanglvxuan
+
+# Build settings
+markdown: kramdown
